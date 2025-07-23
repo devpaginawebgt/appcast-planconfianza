@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Plan Confianza Caplin - Appcast</title>
+
+    <!-- Versión recomendada para actualización -->
+    <item>
+      <title>Versión 2.0.0</title>
+      <description>🚀 ¡Novedades importantes!  
+- Nueva funcionalidad de agendamiento  
+- Mejoras en la velocidad de carga  
+- Correcciones de errores reportados por usuarios</description>
+      <pubDate>Wed, 24 Jul 2025 12:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://play.google.com/store/apps/details?id=com.planconfianzacaplin.plan_confianza_caplin_app" 
+        sparkle:version="2.0.0" 
+        sparkle:os="android" />
+      <sparkle:criticalUpdate />
+    </item>
+
+  </channel>
+</rss>
