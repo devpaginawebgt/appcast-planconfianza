@@ -3,7 +3,6 @@
   <channel>
     <title>Plan Confianza Caplin - Appcast</title>
 
-    <!-- Versión recomendada para actualización -->
     <item sparkle:version="2.0.0" sparkle:os="android">
       <title>Versión 2.0.0</title>
       <description>
